@@ -1,0 +1,10 @@
+"排名","条件变量","中文名","有效观测数","CR_效应量","CR_精确度","CR_上限区域","CR_范围","CR_P值","CE_效应量","CE_精确度","CE_上限区域","CE_范围","CE_P值","必要性结论","CR显著","CE显著"
+1,"cost_sticky_taoyan_cal","成本粘性",961,0.0386,100,0.0313,NA,1,0.0773,100,0.0626,NA,1,"非必要条件",FALSE,FALSE
+2,"rev_entropy_taoyan_cal","收入多样性",961,0,100,0,NA,1,0,100,0,NA,1,"非必要条件",FALSE,FALSE
+3,"diff_freq1_taoyan_cal","差异化战略",961,0,100,0,NA,1,0,100,0,NA,1,"非必要条件",FALSE,FALSE
+4,"cost_freq1_taoyan_cal","成本领先战略",961,0,100,0,NA,1,0,100,0,NA,1,"非必要条件",FALSE,FALSE
+5,"DYNA_taoyan_cal","数字化动态能力",961,0,100,0,NA,1,0,100,0,NA,1,"非必要条件",FALSE,FALSE
+6,"MUNI_taoyan_cal","市政工程能力",961,0,100,0,NA,1,0,100,0,NA,1,"非必要条件",FALSE,FALSE
+7,"org_size_taoyan_cal","企业规模",961,0,100,0,NA,1,0,100,0,NA,1,"非必要条件",FALSE,FALSE
+8,"esg_score_taoyan_cal","ESG表现",961,0,100,0,NA,1,0,100,0,NA,1,"非必要条件",FALSE,FALSE
+9,"digi_freq1_taoyan_cal","数字化转型",961,0,100,0,NA,1,0,100,0,NA,1,"非必要条件",FALSE,FALSE

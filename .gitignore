@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+temp*.csv
+*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files (optional - uncomment if you don't want to track output)
+# *.png
+# *.pdf
+
+# Large data files (optional - uncomment if needed)
+# *.xlsx
